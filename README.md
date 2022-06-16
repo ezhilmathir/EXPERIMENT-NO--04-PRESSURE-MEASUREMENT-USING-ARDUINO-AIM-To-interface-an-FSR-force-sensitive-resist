@@ -149,9 +149,6 @@ void loop()  {
 
 ![OUTPUT](F.png)
 
-
-
-
 ![OUTPUT](F1.png)
 
 

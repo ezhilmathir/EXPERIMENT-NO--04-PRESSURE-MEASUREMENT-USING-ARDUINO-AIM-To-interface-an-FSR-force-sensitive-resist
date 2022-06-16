@@ -147,9 +147,9 @@ void loop()  {
  ```
 ### OUTPUT:-
 
-![OUTPUT](F.png)
+![OUTPUT](f.png)
 
-![OUTPUT](F1.png)
+![OUTPUT](f1.png)
 
 
 
